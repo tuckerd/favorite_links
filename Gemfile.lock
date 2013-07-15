@@ -47,9 +47,12 @@ GEM
       execjs
     coffee-script-source (1.6.3)
     diff-lcs (1.2.4)
+    dynamic_form (1.1.4)
     erubis (2.7.0)
     execjs (1.4.0)
       multi_json (~> 1.0)
+    factory_girl (2.6.4)
+      activesupport (>= 2.3.9)
     ffi (1.9.0)
     hike (1.2.3)
     i18n (0.6.1)
@@ -139,6 +142,8 @@ PLATFORMS
 DEPENDENCIES
   capybara (= 1.1.2)
   coffee-rails (~> 3.2.1)
+  dynamic_form (= 1.1.4)
+  factory_girl (= 2.6.4)
   jquery-rails
   rails (= 3.2.13)
   rspec-rails (~> 2.11)

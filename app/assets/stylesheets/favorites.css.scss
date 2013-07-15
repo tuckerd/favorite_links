@@ -32,6 +32,8 @@ a {
     color: #74CC00;
 }
 
+#title a { color: blue }
+
 textarea {
     padding: 3px;
     margin-top: 5px;
@@ -43,7 +45,6 @@ input[type=file] {
     margin-bottom: 10px;
 }
 
-#title { color: blue }
 
 .flash {
     padding: 10px;
